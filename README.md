@@ -31,7 +31,7 @@ This project explores various methods to represent textual data and applies them
 
 ## Dependencies
 
-numpy
-matplotlib
-pandas
+- numpy
+- matplotlib
+- pandas
 
